@@ -1,0 +1,6 @@
+NAME,LAT,LON,COUNTRY
+Jesus College Oxford,51.753501,-1.256884,UK
+Imperial College London, 51.498508,-0.174627,UK
+Tsinghua University,39.999692,116.326465,China
+National University of Singapore,1.296181377210003,103.77847529114554,Singapore
+Sorbonne Pantheon ASSAS,48.842738, 2.332944,France
